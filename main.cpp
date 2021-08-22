@@ -2,7 +2,6 @@
 #include <QQmlApplicationEngine>
 #include <QQmlContext>
 #include <QIcon>
-#include "dangNhap.h"
 #include <QQmlProperty>
 #include <QApplication>
 #include <QGuiApplication>
