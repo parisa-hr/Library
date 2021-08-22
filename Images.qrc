@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/banner.jpg</file>
+        <file>images/iconMain.jpg</file>
+        <file>images/Login.png</file>
+        <file>images/Register.jpg</file>
+        <file>images/backGround.jpg</file>
+        <file>images/phone_2.ico</file>
+        <file>images/facebook.png</file>
+        <file>images/anhdaidien.jpg</file>
+        <file>images/logo.png</file>
+        <file>images/check-list-list-pngrepo-com.png</file>
+        <file>images/canhan.jpg</file>
+        <file>images/about.png</file>
+        <file>images/canhan1.png</file>
+    </qresource>
+</RCC>
